@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.parquet
+*.avro
+*.orc
+*.log
+*.gz
+*.zip
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Outputs
+results/
+outputs/
+checkpoints/
